@@ -13,6 +13,7 @@
     "bootstrap": "^4.1.1",
     "es6-promise": "^4.2.4",
     "font-awesome": "^4.7.0",
+    "hoek": "^5.0.4",
     "v-money": "^0.8.1",
     "vue": "^2.5.11",
     "vue-router": "^3.0.1",
